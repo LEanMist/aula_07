@@ -1,9 +1,7 @@
 .main-form {
   width: 100%;
   max-width: 25rem;
-
   padding: 2.5rem;
-
   background-color: var(--bg-card);
   border-radius: 0.75rem;
 

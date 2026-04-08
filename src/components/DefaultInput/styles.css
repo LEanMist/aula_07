@@ -1,4 +1,4 @@
-.input-wrapper {
+.default-input {
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -10,7 +10,7 @@
   border-radius: 0.5rem;
 }
 
-.input-wrapper input {
+.default-input input {
   flex: 1;
   background: transparent;
   border: none;
@@ -19,6 +19,6 @@
   font-size: 1rem;
 }
 
-.input-wrapper:focus-within {
+.default-input:focus-within {
   border-color: var(--primary-color);
 }

@@ -1,4 +1,4 @@
-import "./styles.module.css";
+import "./styles.css";
 
 export default function DefaultButton({ children, ...props }) {
   return (

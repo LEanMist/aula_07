@@ -8,7 +8,7 @@ import { Mail, Lock } from "lucide-react";
 import "./styles/global.css";
 import "./styles/theme.css";
 
-export default function App() {
+export function App() {
   return (
     <Container>
       <MainForm>
